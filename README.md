@@ -38,8 +38,6 @@
   <a href="https://www.linkedin.com/in/cleiton-soares-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/12182919554?si=a5c29a20c4624648)
 <br/>
 ---
