@@ -8,6 +8,9 @@
 `MySQL `, `AWS`,  `Firebase`, `Java`\
 <br/>
 
+- 📍 Minas Gerais - Brazil.
+- 🎓 Cursando Sistemas de informação.
+
 ### ⏭ Frontend
 
 <div style="display: inline_block">
